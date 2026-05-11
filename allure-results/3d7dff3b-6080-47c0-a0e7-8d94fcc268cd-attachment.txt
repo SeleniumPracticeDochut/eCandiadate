@@ -1,0 +1,19 @@
+{
+  statusCode: 200,
+  message: 'OK',
+  data: {
+    userId: 284420,
+    email: 'testingshopperccount@gmail.com',
+    role: 'SHOPPER',
+    status: 'ACTIVE',
+    createdDateTime: null,
+    firstName: 'Testing',
+    lastName: 'Shopper',
+    city: 'Banglore',
+    state: 'Karnataka',
+    country: 'India',
+    zoneId: 'ALPHA',
+    imageId: null,
+    jwtToken: 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0aW5nc2hvcHBlcmNjb3VudEBnbWFpbC5jb20gU0hPUFBFUiIsImV4cCI6MTc3Nzc1MjIwNywiaWF0IjoxNzc3NzE2MjA3fQ.kBa9P8s_4HAPny89EaXOe5CC1RyQPAr1HXzEwFRuuDo'
+  }
+}
