@@ -30,4 +30,8 @@ test("storage state doctor",async ({page})=>{
 
 console.log("how are you2")
 
+console.log("how are you2")
+
+console.log("how are you2")
+
 })
