@@ -26,6 +26,8 @@ test("storage state doctor",async ({page})=>{
 
     await page.context().storageState({
         path:'.auth/p.json'
-})
+    })
+
+    console.log("hello")
 
 })
