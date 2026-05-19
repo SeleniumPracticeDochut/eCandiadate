@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "ci_session",
+      "value": "447756117bcd08c71e0ac73ad5ad4daac3ae8718",
+      "domain": "106.51.82.61",
+      "path": "/",
+      "expires": 1778930569.900725,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
