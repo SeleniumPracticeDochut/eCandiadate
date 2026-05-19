@@ -29,6 +29,9 @@ test("storage state doctor",async ({page})=>{
     })
 
     console.log("no logs")
+    console.log("no logs")
+    console.log("no logs")
+    
 
 
 })
