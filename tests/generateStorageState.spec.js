@@ -28,8 +28,7 @@ test("storage state doctor",async ({page})=>{
         path:'.auth/p.json'
     })
 
-    console.log("hello")
-        console.log("hello1")
+    console.log("no logs")
 
 
 })
