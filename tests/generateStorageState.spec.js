@@ -29,5 +29,7 @@ test("storage state doctor",async ({page})=>{
     })
 
     console.log("hello")
+        console.log("hello1")
+
 
 })
